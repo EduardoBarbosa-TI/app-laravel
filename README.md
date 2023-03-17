@@ -1,5 +1,5 @@
 
-# Setup Docker Para Projetos Laravel 10
+# Setup do projeto
 Clone o Repositório
 ```sh
 https://github.com/endriwmsi/setup-docker-laravel.git
